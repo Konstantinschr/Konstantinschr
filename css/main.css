@@ -270,6 +270,10 @@ footer p a:hover {
   opacity: 0.7;
 }
 
+.lang {
+  cursor: pointer;
+}
+
 @media (max-width: 9000px) {
   .gallery li {
     width: 33.33%;

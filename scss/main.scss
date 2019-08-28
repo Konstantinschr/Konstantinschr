@@ -270,6 +270,10 @@ footer {
     }   
 }
 
+.lang {
+    cursor:pointer;
+}
+
 @media (max-width: 9000px) {
     .gallery li {
         width:33.33%;
