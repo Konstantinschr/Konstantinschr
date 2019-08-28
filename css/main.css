@@ -2,6 +2,7 @@ body, html {
   height: 100%;
   margin: 0;
   font-family: "Abel", sans-serif;
+  font-display: auto;
   background-color: #151515;
   scroll-behavior: smooth;
   overflow-x: hidden;
