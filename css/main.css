@@ -7,10 +7,6 @@ body, html {
   overflow-x: hidden;
 }
 
-::-webkit-scrollbar {
-  display: none;
-}
-
 p {
   font-size: 19px;
 }
