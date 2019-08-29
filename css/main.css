@@ -4,13 +4,13 @@ body, html {
   font-family: "Abel", sans-serif;
   font-display: auto;
   background-color: #151515;
-  /*scroll-behavior: smooth;*/
-  overflow-x: hidden;
+  scroll-behavior: smooth;
+  /*overflow-x: hidden;*/
 }
 
-/*::-webkit-scrollbar {
+::-webkit-scrollbar {
   display: none;
-}*/
+}
 
 p {
   font-size: 19px;
