@@ -47,11 +47,11 @@ nav #donate-link {
 
 .hero-header {
   width: 100%;
-  /*background-image: url("./../img/hero.jpg");
+  background-image: url("./../img/hero.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;*/
+  background-attachment: fixed;
   color: #fff;
   margin: auto;
   text-align: center;
