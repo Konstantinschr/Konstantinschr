@@ -48,11 +48,11 @@ nav #donate-link {
 .hero-header {
   height: 100vh;
   width: 100%;
-  background-image: url("./../img/hero.jpg");
+  /*background-image: url("./../img/hero.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed;*/
   color: #fff;
   margin: auto;
   text-align: center;
@@ -65,8 +65,10 @@ nav #donate-link {
   line-height: 1.5em;
 }
 .hero-header iframe {
-  width: 70%;
-  height: 70vh;
+  width: 80%;
+  height:70vh;
+  /*width: 70%;
+  height: 70vh;*/
   margin-top: 30px;
 }
 
