@@ -22,7 +22,7 @@ h6 {
 
 .down {
   padding: 30px;
-  width: 10%;
+  width: 20%;
 }
 
 nav .navbar-brand {
@@ -322,7 +322,7 @@ footer p a:hover {
 }
 @media only screen and (max-width: 700px) {
   .hero-header .navbar {
-    position: relative;
+    /*position: relative;*/
   }
   .hero-header h6 {
     width: 80%;
