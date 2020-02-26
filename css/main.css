@@ -55,6 +55,7 @@ nav #donate-link {
   color: #fff;
   margin: auto;
   text-align: center;
+  padding-bottom: 40px;
 }
 .hero-header h6 {
   width: 50%;
@@ -92,9 +93,9 @@ nav #donate-link {
   min-height: 400px;
 }
 #donate div {
-  width: 60%;
+  /*width: 60%;*/
   margin: auto;
-  text-align: center;
+  /*text-align: center;*/
   padding: 40px;
 }
 #donate div h3 {
@@ -162,6 +163,27 @@ nav #donate-link {
   width: 200px;
 }
 
+.about{
+  background-color: #E8E8E8;
+  width: 100%;
+  max-width: 100%;
+  padding-bottom: 40px;
+} 
+
+.about_container {
+  width: 60%;
+  margin: auto;
+} 
+
+.about_head {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.person {
+  padding-bottom: 40px;
+}
+
 .about_us {
   background-color: #151515;
   color: #FFFFFF;
@@ -179,6 +201,11 @@ nav #donate-link {
 .subtext {
   opacity: 0.7;
 }
+
+.profile{
+  width: 80%;
+  max-width: 100%;
+} 
 
 .gallery {
   width: 100%;
@@ -291,6 +318,18 @@ footer p a:hover {
   cursor: pointer;
 }
 
+.head_container{
+  width: 80%;
+  padding-bottom:40px;
+  padding-top: 40px;
+  text-align:center;
+  margin:auto;
+} 
+
+.head_container h6{
+  line-height:1.5;
+} 
+
 @media (max-width: 9000px) {
   .gallery li {
     width: 33.33%;
@@ -317,7 +356,7 @@ footer p a:hover {
   }
 
   #donate div {
-    width: 80%;
+    /*width: 80%;*/
   }
 }
 @media only screen and (max-width: 700px) {
@@ -334,6 +373,10 @@ footer p a:hover {
   .hero-header .down {
     display: none;
   }
+
+  .about_container {
+    width: 80%;
+  } 
 
   #donate div {
     width: 100%;
